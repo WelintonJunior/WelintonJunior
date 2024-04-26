@@ -22,7 +22,7 @@
 
   <h2> Technologies I use and study: </h2>
 
-<img align="center" alt="ze-Go" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/go/go-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)">
+<img align="center" alt="ze-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 <img align="center" alt="ze-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="ze-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 <img align="center" alt="ze-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
