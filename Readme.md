@@ -7,7 +7,7 @@
 <div align="center">
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WelintonJunior&show_icons=true&count_private=true&hide_border=true&title_color=82B8D9&icon_color=82B8D9&text_color=82B8D9&bg_color=82B8D9" alt="Welinton github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WelintonJunior&show_icons=true&count_private=true&hide_border=true&title_color=82B8D9&icon_color=82B8D9&text_color=000000&bg_color=82B8D9" alt="Welinton github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelintonJunior&layout=compact&hide_border=true&title_color=82B8D9&text_color=82B8D9&bg_color=82B8D9" />
 </div>
 
