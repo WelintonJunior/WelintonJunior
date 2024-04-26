@@ -1,14 +1,14 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4040&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82B8D9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4040&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Welinton;I'm+from+Guaratinguetá,+SP;Im+Back-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82B8D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Welinton;I'm+from+Guaratinguetá,+SP;Im+Back-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🌱 I'm a back end developer
 <div align="center">
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WelintonJunior&show_icons=true&count_private=true&hide_border=true&title_color=ff4040&icon_color=ff4040&text_color=c9d1d9&bg_color=0d1117" alt="Welinton github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelintonJunior&layout=compact&hide_border=true&title_color=ff4040&text_color=ff4040&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WelintonJunior&show_icons=true&count_private=true&hide_border=true&title_color=82B8D9&icon_color=ff4040&text_color=c9d1d9&bg_color=0d1117" alt="Welinton github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelintonJunior&layout=compact&hide_border=true&title_color=ff4040&text_color=82B8D9&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -21,10 +21,9 @@
   <a href="https://www.linkedin.com/in/welinton-junior-314bb2265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   <h2> Technologies I use and study: </h2>
- <img align="center" alt="ze-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="ze-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="ze-Go" height="30" width="40" src="  https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
 <img align="center" alt="ze-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="ze-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="center" alt="ze-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 <img align="center" alt="ze-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
 <img align="center" alt="ze-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -56,4 +55,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4040&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82B8D9&height=120&section=footer"/>
