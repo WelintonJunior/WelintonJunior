@@ -8,7 +8,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WelintonJunior&show_icons=true&count_private=true&hide_border=true&title_color=82B8D9&icon_color=ff4040&text_color=c9d1d9&bg_color=0d1117" alt="Welinton github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelintonJunior&layout=compact&hide_border=true&title_color=ff4040&text_color=82B8D9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelintonJunior&layout=compact&hide_border=true&title_color=82B8D9&text_color=82B8D9&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
   <h2> Technologies I use and study: </h2>
 
-<img align="center" alt="ze-Go" height="30" width="40" src="  https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+<img align="center" alt="ze-Go" height="30" width="40" src="  https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/go/go-original.svg">
 <img align="center" alt="ze-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="ze-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 <img align="center" alt="ze-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
