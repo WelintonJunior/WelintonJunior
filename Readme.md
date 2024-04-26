@@ -7,8 +7,8 @@
 <div align="center">
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WelintonJunior&show_icons=true&count_private=true&hide_border=true&title_color=#010D00&icon_color=#010326&text_color=000000&bg_color=A0DBF2" alt="Welinton github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelintonJunior&layout=compact&hide_border=true&title_color=#010D00&text_color=000000&bg_color=A0DBF2" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WelintonJunior&show_icons=true&count_private=true&hide_border=true&title_color=010D00&icon_color=010326&text_color=000000&bg_color=%23A0DBF2" alt="Welinton's GitHub stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelintonJunior&layout=compact&hide_border=true&title_color=010D00&text_color=000000&bg_color=%23A0DBF2" />
 </div>
 <br>
 <p align="center">
