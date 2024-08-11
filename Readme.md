@@ -32,7 +32,8 @@
 
 <div style="display: inline_block"><br>
   <h2> What is my IDE? </h2>
-    <img align="center" alt="ze-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="ze-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="ze_jetbrains" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
 </div>
 
 <div align="center"><br>
